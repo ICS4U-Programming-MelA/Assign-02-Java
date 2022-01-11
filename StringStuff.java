@@ -9,7 +9,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /** Copyright (c) 2022 Mel Aguoth All rights reserved.
- * Given a string passed as an argument, this function returns the length of the largest
+ * Given a string passed as an argument, this program returns the length of the largest
  * run in the string. A "run" is a series of zero or more adjacent characters that are the same.
  *
  * @author  Mel Aguoth
